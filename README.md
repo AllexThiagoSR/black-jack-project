@@ -1,0 +1,1 @@
+Projeto de um jogo de blackjack usando a API -> https://deckofcardsapi.com/
