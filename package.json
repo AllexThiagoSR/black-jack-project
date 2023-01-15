@@ -1,0 +1,26 @@
+{
+  "name": "black-jack-project",
+  "version": "1.0.0",
+  "description": "Projeto de um jogo de blackjack usando a API -> https://deckofcardsapi.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllexThiagoSR/black-jack-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllexThiagoSR/black-jack-project/issues"
+  },
+  "homepage": "https://github.com/AllexThiagoSR/black-jack-project#readme",
+  "devDependencies": {
+    "eslint": "^8.31.0"
+  },
+  "dependencies": {
+    "vite": "^4.0.4"
+  }
+}
